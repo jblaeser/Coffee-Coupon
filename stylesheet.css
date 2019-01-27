@@ -38,7 +38,7 @@ h2 {
 .information {
     width: 15.625em;
     margin: 0 0 0 23em;
-    padding: 2em 1em;
+    padding: 2em .85em 2em 1em;
     color: #fff;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -82,4 +82,6 @@ h4 {
     border: .65em solid transparent;
     border-left: .65em solid #e5553a;
     right: .25em;
+    top: 50%;
+    transform: translateY(-50%);
 }
