@@ -1,0 +1,32 @@
+.coupon {
+    background-image: url('couponbg.jpeg');
+    margin: 5em auto;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    width: 40.5em;
+    height: 24.625em;
+}
+
+.header {
+    background-color: #c93042;
+    height: 8.0625em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+h1, h2 {
+    text-align: center;
+    color: #fff;
+}
+
+h1 {
+    font-size: 3.75em;
+    margin: 0;
+}
+
+h2 {
+    font-size: 2em;
+    margin: 0;
+}
